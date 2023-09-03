@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.examples.AdditionProgramTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-09-03T21:11:12" hostname="Rajs-MBP" time="0.018">
+  <properties/>
+  <testcase name="testSum()" classname="org.examples.AdditionProgramTest" time="0.015"/>
+  <testcase name="test2()" classname="org.examples.AdditionProgramTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
